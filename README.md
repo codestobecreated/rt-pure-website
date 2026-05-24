@@ -12,7 +12,7 @@ https://codestobecreated.github.io/rt-pure-website/
 
 ## Website Preview
 
-![RT Pure website preview](images/home/Sewage-treatment-system-electrochemical-based.jpg)
+![RT Pure website design preview](images/website-preview.png)
 
 ## Video
 
