@@ -2,6 +2,23 @@
 
 A static website for RT Pure, showcasing electrochemical sewage treatment systems, product models, process information, brochures, and contact details.
 
+## Live Website
+
+Visit the published website:
+
+```text
+https://codestobecreated.github.io/rt-pure-website/
+```
+
+## Website Preview
+
+![RT Pure website preview](images/home/Sewage-treatment-system-electrochemical-based.jpg)
+
+## Video
+
+- [RT Pure Intro Video](images/videos/RT%20Pure%20Intro.mp4)
+- [RT Pure C Intro Video](images/videos/RT%20Pure%20C%20Intro.mp4)
+
 ## Pages
 
 - Home page: `index.html`
