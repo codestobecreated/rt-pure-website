@@ -9,16 +9,6 @@ Visit the published website:
 ```text
 https://codestobecreated.github.io/rt-pure-website/
 ```
-
-## Website Preview
-
-![RT Pure website design preview](images/website-preview.png)
-
-## Video
-
-- [RT Pure Intro Video](images/videos/RT%20Pure%20Intro.mp4)
-- [RT Pure C Intro Video](images/videos/RT%20Pure%20C%20Intro.mp4)
-
 ## Pages
 
 - Home page: `index.html`
